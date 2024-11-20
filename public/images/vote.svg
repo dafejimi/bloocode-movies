@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <!-- Thumb -->
+  <path d="M7 10v12h12c1.1 0 2-.9 2-2v-2c0-.53-.21-1.04-.59-1.41l-4-4c-.37-.38-.59-.88-.59-1.41V8c0-1.1-.9-2-2-2h-1c-1.1 0-2 .9-2 2v2H7z"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linejoin="round"/>
+  
+  <!-- Base/wrist -->
+  <rect x="3" y="10" width="4" height="12" 
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linejoin="round"/>
+</svg>

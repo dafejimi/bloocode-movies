@@ -1,0 +1,7 @@
+@font-face {  
+    font-display: swap;  
+    font-family: "Noto Sans";  
+    src: url('/fonts/NotoSansThin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;  
+}

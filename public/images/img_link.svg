@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100">
+  <!-- Letter O -->
+  <path d="M50 20C35 20 25 30 25 50C25 70 35 80 50 80C65 80 75 70 75 50C75 30 65 20 50 20ZM50 70C40 70 35 63 35 50C35 37 40 30 50 30C60 30 65 37 65 50C65 63 60 70 50 70Z" fill="#6CD591"/>
+  
+  <!-- Letter J -->
+  <path d="M90 25H140V35H120V65C120 70 117 75 110 75H90V65H105C107 65 110 64 110 60V35H90V25Z" fill="white"/>
+  
+  <!-- Letter T -->
+  <path d="M150 25H210V35H185V75H175V35H150V25Z" fill="white"/>
+  
+  <!-- Letter V -->
+  <path d="M205 25H215L230 65L245 25H255L235 75H225L205 25Z" fill="white"/>
+</svg>
